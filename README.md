@@ -1,6 +1,6 @@
 ## :smile_cat: Hi! I'm a junior developer interested in Front-End.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF8A00&title_bg=%23707070&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align=center><a  href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphoenix9373%2FTIL&count_bg=%23FFA800&title_bg=%237C7C7C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a></div>
 
 ### :blush: Welcome to my github.
 
